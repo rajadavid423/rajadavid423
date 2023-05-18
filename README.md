@@ -19,9 +19,6 @@
 <br/>
 <br/>
 
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://drive.google.com/uc?export=view&id=1zerV_OSXXro982LnsUJn-ZJwflABgwXh"/>
-<br/>
-
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
 <br/>
@@ -65,10 +62,6 @@
  > 
 > 💻 Operating System: Ubuntu, Windows, Mac
  >
-
-<div style="text-align: center">
-   <img height="500" width="100%" src="https://drive.google.com/uc?export=view&id=1aM722Midmvqe0ppk2udpeXsZ2uHtiwMF">
-</div>
 
 <br>
 

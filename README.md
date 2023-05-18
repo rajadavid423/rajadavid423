@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://imgtr.ee/images/2023/04/29/JwjQr.gif" width="24px">
+  <img src="https://drive.google.com/uc?export=view&id=1JImQvT0bsXFYZrmolV_VxJsQZGc1EojU" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="https://imgtr.ee/images/2023/04/29/Jw3en.gif" width="40px" />
+  <img src="https://drive.google.com/uc?export=view&id=1DL9V38D_Gql1PATJL4PtowFAbE5uMYie" width="40px" />
 </h1>
 
 <br/>

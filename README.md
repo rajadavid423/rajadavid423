@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://imgtr.ee/images/2023/04/29/JwzGc.gif"/>
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://drive.google.com/uc?export=view&id=1zerV_OSXXro982LnsUJn-ZJwflABgwXh"/>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
@@ -27,25 +27,25 @@
 <br/>
 <br/>
 
-<code><img height="40" width="40" alt="laravel" src="https://imgtr.ee/images/2023/04/29/JwtVA.png"></code>
-<code><img height="40" width="40" alt="php" src="https://imgtr.ee/images/2023/04/29/Jwh9Q.png"></code>
-<code><img height="40" width="40" alt="mysql" src="https://imgtr.ee/images/2023/04/29/JwD8M.png"></code>
-<code><img height="40" width="40" alt="bootstrap" src="https://imgtr.ee/images/2023/04/29/Jws17.png"></code>
-<code><img height="40" width="40" alt="html" src="https://imgtr.ee/images/2023/04/29/JwZKV.png"></code>
-<code><img height="40" width="40" alt="jquery" src="https://imgtr.ee/images/2023/04/29/JwYqX.png"></code>
-<code><img height="40" width="40" alt="js" src="https://imgtr.ee/images/2023/04/29/JwCII.png"></code>
-<code><img height="40" width="40" alt="nodejs" src="https://imgtr.ee/images/2023/04/29/JwQc1.png"></code>
-<code><img height="40" width="40" alt="api" src="https://imgtr.ee/images/2023/04/29/JwmIl.png"></code>
+<code><img height="40" width="40" alt="laravel" src="https://drive.google.com/uc?export=view&id=1chndGdbxy2IMB4qzFxf7BJjZSUofX7kN"></code>
+<code><img height="40" width="40" alt="php" src="https://drive.google.com/uc?export=view&id=1N4_jx0BD7MR7Oy_mFB6LVWsaSfAwmsaO"></code>
+<code><img height="40" width="40" alt="mysql" src="https://drive.google.com/uc?export=view&id=1_spwjdqss2390yOtUhSkmS2CNmyP5Dka"></code>
+<code><img height="40" width="40" alt="bootstrap" src="https://drive.google.com/uc?export=view&id=1C1n_EvJa08HnEwEoit4BZ6g6-2_sbKlM"></code>
+<code><img height="40" width="40" alt="html" src="https://drive.google.com/uc?export=view&id=1VVDGU7jafGahIQQExu1i4cImw9uGy9hj"></code>
+<code><img height="40" width="40" alt="jquery" src="https://drive.google.com/uc?export=view&id=1bhPXQwjfyGRrGK_rjYf7MyNWfGe5iLY4"></code>
+<code><img height="40" width="40" alt="js" src="https://drive.google.com/uc?export=view&id=1uHOZMOvRSnxm1LNl2T7l8x8PolCcZT8x"></code>
+<code><img height="40" width="40" alt="nodejs" src="https://drive.google.com/uc?export=view&id=1EhFc276NBX_hshmqOKR0ClUbNrU2Y9Yu"></code>
+<code><img height="40" width="40" alt="api" src="https://drive.google.com/uc?export=view&id=1wc7zz1WUJn_6MZPAL9d35i36B6zxufbf"></code>
 #
-<code><img height="40" width="40" alt="git" src="https://imgtr.ee/images/2023/04/29/Jw6wL.png"></code>
-<code><img height="40" width="40" alt="github" src="https://imgtr.ee/images/2023/04/29/JwLV0.png"></code>
-<code><img height="40" width="40" alt="jira" src="https://imgtr.ee/images/2023/04/29/JwKd4.png"></code>
-<code><img height="40" width="40" alt="postman" src="https://imgtr.ee/images/2023/04/29/Jwr73.png"></code>
-<code><img height="40" width="40" alt="slack" src="https://imgtr.ee/images/2023/04/29/JwVrU.png"></code>
-<code><img height="40" width="40" alt="phpstrom" src="https://imgtr.ee/images/2023/04/29/JwWcB.png"></code>
-<code><img height="40" width="40" alt="skype" src="https://imgtr.ee/images/2023/04/29/Jw58m.png"></code>
-<code><img height="40" width="40" alt="trello" src="https://imgtr.ee/images/2023/04/29/Jwb3D.png"></code>
-<code><img height="40" width="40" alt="workbench" src="https://imgtr.ee/images/2023/04/29/JwS5s.png"></code>
+<code><img height="40" width="40" alt="git" src="https://drive.google.com/uc?export=view&id=1FuN8zUSFdWoMuuiwQHOgTFYR6867L8Dv"></code>
+<code><img height="40" width="40" alt="github" src="https://drive.google.com/uc?export=view&id=1707ffH58mg67GIYAuz4N3gtt-TMuuo9S"></code>
+<code><img height="40" width="40" alt="jira" src="https://drive.google.com/uc?export=view&id=1B6olMZspQc2rBlP_pJBaFOGlvm9TUbPK"></code>
+<code><img height="40" width="40" alt="postman" src="https://drive.google.com/uc?export=view&id=1hP4tYX7SIZ7_7nFW9BAbGCuqBsZ40JBP"></code>
+<code><img height="40" width="40" alt="slack" src="https://drive.google.com/uc?export=view&id=1cmi2ExNOmVwFAAmaGgwV83jmsglakGNf"></code>
+<code><img height="40" width="40" alt="phpstrom" src="https://drive.google.com/uc?export=view&id=1Ohe_3S-KOt8jSq_1QO0I5gqTw6l4MohN"></code>
+<code><img height="40" width="40" alt="skype" src="https://drive.google.com/uc?export=view&id=1Xj_VyN2PZfC64BaseAIZ16IXevo5zhiv"></code>
+<code><img height="40" width="40" alt="trello" src="https://drive.google.com/uc?export=view&id=1W1H_cidBVzHVXUdWcVCkqbWt2rItDLZZ"></code>
+<code><img height="40" width="40" alt="workbench" src="https://drive.google.com/uc?export=view&id=1AmSVyR1G-31_8hCxGKrzynv_wUoz3M2R"></code>
 
 <br/>
 
@@ -67,7 +67,7 @@
  >
 
 <div style="text-align: center">
-   <img height="500" width="100%" src="https://s11.gifyu.com/images/code.gif">
+   <img height="500" width="100%" src="https://drive.google.com/uc?export=view&id=1aM722Midmvqe0ppk2udpeXsZ2uHtiwMF">
 </div>
 
 <br>
@@ -124,8 +124,8 @@ Payment Integration
 ```
 
 <div align="center">
-### Copy-and-Paste was programmed by programmers for programmers actually! ❤️ <img src="https://imgtr.ee/images/2023/04/29/JwFuJ.gif" height="25px">
+### Copy-and-Paste was programmed by programmers for programmers actually! ❤️ <img src="https://drive.google.com/uc?export=view&id=1f7TEfmBwGjWT07P5M7WxrP5G_8hT3M5C" height="25px">
 </div>
 <br>
 
-![footer](https://imgtr.ee/images/2023/04/29/Jwurx.webp)
+<img src="https://drive.google.com/uc?export=view&id=1SCrpAjJIRgC2-OgEnH0jGxleQZa9ZO1d" width="100%">
